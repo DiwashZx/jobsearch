@@ -11,6 +11,7 @@ const WelcomeScreen = () => {
         <Image 
         style={styles.logo} 
         source={require ("../assets/logo.png")} />
+        {/* Diwash change this line of code */}
         <Text>sell waht you need it the most in the life</Text>
 
         </View>
